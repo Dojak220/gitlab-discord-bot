@@ -7,14 +7,19 @@
 <div 
    style="
       display: flex;
+      flex-direction: row;
       justify-content: center;
-      align-items: center;  
+      align-items: center;
    "
 >
-   <a href="https://gitlab.com/"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="150px" alt="Logo Discord"></a>
+   <a href="https://gitlab.com/">
+      <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="150px" alt="Logo Discord">
+   </a>
+   
    <img style="padding: 0 30px" src="./assets/two-way-arrows.svg" style="fill: white"/>
-   <a style="display:flex;flex-direction:column;align-items:center;" href="https://discord.com/">
-   <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width="110px" alt="Logo Discord">
+   
+   <a href="https://discord.com/">
+      <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width="110px" alt="Logo Discord">
    </a>
 </div>
 
