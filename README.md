@@ -13,7 +13,10 @@
 >
    <a href="https://gitlab.com/"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" width="160px" alt="Logo Discord"></a>
    <img style="padding: 0 30px" src="./assets/two-way-arrows.svg" style="fill: white"/>
-   <a href="https://discord.com/"><img src="https://discord.com/assets/e7a3b51fdac2aa5ec71975d257d5c405.png" width="160px" alt="Logo Discord"></a>
+   <a style="display:flex;flex-direction:column;align-items:center;" href="https://discord.com/">
+   <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width="70px" alt="Logo Discord">
+   <img src="https://discord.com/assets/4ff060e44afc171e9622fbe589c2c09e.png" style="display: block" width="160px" alt="Logo Discord">
+   </a>
 </div>
 
 <h2> <strong>Descrição e Objetivo</strong> </h2>
