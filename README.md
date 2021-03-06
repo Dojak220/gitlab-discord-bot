@@ -68,7 +68,7 @@
 
 <footer>
    </ul>
-      <div style="padding:300px 0; display:flex; align-items:center;">
+      <div>
          <img style="padding-right: 10px" src="./assets/two-way-arrows.svg" style="fill: white" width="25px"/>
          Icon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
       </div>
